@@ -7,6 +7,8 @@ There were no problems during the first laboratory work
 ## Lab2
 There were no critical troubles. The key problem was with understanding the second part of the task (coordinates, longitude, latitude etc.)
 
+[Package with tasks](https://github.com/RedBullDogE/MobDevProject/tree/master/app/src/main/java/ua/kpi/comsys/iv7213/tasks)
+
 ### Results:
 
 Part 2 | Output
